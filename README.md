@@ -36,6 +36,8 @@ Use Auto Layout when possible. Please decide between Xib vs. Storyboards, we wou
 
 • The app should show loading indicators when the feed is loading
 
+• Document your solution in SOLUTION.MD file
+
 **Good luck**!
 
 
