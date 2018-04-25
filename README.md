@@ -4,6 +4,9 @@ Pycom Challenge is an app for showing [Flickr](https://www.flickr.com) pictures 
 We've setup some boilerplate code for you 🙇 Your assignment is to improve the app and make it an enjoyable picture browsing experience.
 We'll give you some tips, but the requirements and specification are quite open.
 
+Please fork this repository and commit your code to it. Document/decribe your solution in SOLUTION.md file.
+Send us link with your solution repository.
+
 Remember, our goal is not to *compare* and *grade* the projects, but to get to know you better. We care about the quality, not quantity, we don't want you to waste your precious time.
 
 ### Interface
