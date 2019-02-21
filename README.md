@@ -9,12 +9,6 @@ Send us link with your solution repository.
 
 Remember, our goal is not to *compare* and *grade* the projects, but to get to know you better. We care about the quality, not quantity, we don't want you to waste your precious time.
 
-### Interface
-
-We don't *"grade"* projects based on how much time you've spent designing and polishing UI so don't waste time on that. All we care about is *tidiness* of the UI: equal margins, logical view hierarchy, logical layout constraints.
-
-Use Auto Layout when possible. Please decide between Xib vs. Storyboards, we would love to know your opinion on that one.
-
 ### Architecture
 
 • We would like you to use the MVVM architecture or an iteration of MVVM. Try to solve the problem of mixing business and presentation logic in the View Model
