@@ -15,8 +15,6 @@ Remember, our goal is not to *compare* and *grade* the projects, but to get to k
 
 • The project should be very easy to unit test. The project should have at least one unit test
 
-• The current boilerplate code is in Objective-C. The networking layer should stay in Objective-C and the rest of the app should be in Swift
-
 • Feel free to choose the Observer mechanism (RxSwift, ReactiveCocoa, your own creation)
 
 • Support error scenarios by simply showing an alert view
